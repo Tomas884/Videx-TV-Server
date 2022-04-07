@@ -1,0 +1,10 @@
+Node.js installation is required prior to using it...
+
+
+
+
+Windows CMD/Power Shell or Linux Terminal:
+
+Navigate to the videx-tv-server directory 
+
+node index.js and press enter to start
